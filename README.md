@@ -7,4 +7,4 @@ https://raw.githack.com/brechtdv/popnorms/master/03-hrqol2013-run.html
 
 https://raw.githack.com/brechtdv/popnorms/master/03-hrqol2018-run.html
 
-https://raw.githack.com/brechtdv/popnorms/master/hrqol2013-residuals.html
+https://raw.githack.com/brechtdv/popnorms/master/index.html
